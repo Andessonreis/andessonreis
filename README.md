@@ -49,6 +49,7 @@
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
+
 **Ferramentas de Desenvolvimento e DevOps** 
 
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -72,8 +73,11 @@
 </details>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br>
+  <p align="centre"><b>Visitors Count</b>
+  </p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andessonreis}/count.svg" /></p> 
-<br></div>
+<br>
+  </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=120&section=footer"/>
