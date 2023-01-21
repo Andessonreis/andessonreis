@@ -64,8 +64,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
   
+### ☄️ Github Streaks:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andessonreis&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+    <img alt="coding-to-music's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andessonreis&theme=tokyonight&hide_border=true"/>
 </p>
 
 </details>
