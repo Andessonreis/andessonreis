@@ -2,6 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)
 
+![](https://github.com/Doc-McCoy/Doc-McCoy/blob/master/img/cyber.gif)
+
+---
+
 <div align="center">  
 
 </div> 
