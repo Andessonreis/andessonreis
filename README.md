@@ -79,8 +79,10 @@
 <br>
   <p align="centre"><b>Visitors Count</b>
   </p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andessonreis}/count.svg" /></p> 
+<img src="https://media4.giphy.com/media/l2QE6znHVshMqR5ba/source.gif" width="300" height="200" /> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andessonreis}/count.svg" /></p> 
 <br>
   </div>
-  
+
+<img src="https://media4.giphy.com/media/l2QE6znHVshMqR5ba/source.gif" width="300" height="200" />
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=120&section=footer"/>
