@@ -1,9 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)
-
-![](https://github.com/Doc-McCoy/Doc-McCoy/blob/master/img/cyber.gif)
-
+![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)
 ---
 
 <div align="center">  
