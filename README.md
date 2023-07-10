@@ -105,23 +105,4 @@
   </div>
 
 
-
-
-<p align="left">
-  Contato 
-</p>
-
-<p align="left">
-  <a href="mailto:andessonreys@gmail.com" alt="Gmail">
-      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(mailto:andessonreys@gmail.com" /></a>
-  
-  <a href="https://www.linkedin.com/in/andesson-reis/" alt="Linkedin">
-      <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andesson-reis-b44627163/" /></a>
-  
-  <a href="https://www.instagram.com/andesson_reis/" alt="Instagram">
-      <img src="https://img.shields.io/badge/-Instagram-FF5789?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/in/andesson-reis/" /</a>
-</p>
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
