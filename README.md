@@ -1,21 +1,114 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)
-![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)
+![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif) 
 ---
 
+<div align="center"></div> 
+
+## About Me
+- 👩‍💻 I'm a Data Engineer with a passion for turning data into valuable insights. I enjoy working with large datasets and building efficient data pipelines.
+- 🎓 Currently, I specialize in data engineering and utilize various technologies to extract, transform, and load data for analysis and processing.
+- 💼 I have experience in handling diverse data sources and implementing data governance and quality measures.
+- 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving field of data engineering.
+
+## Technical Skills
+
+- 💻 Python: Data manipulation, data preprocessing, scripting, and automation.
+- 💻 SQL: Database querying, data modeling, and optimization.
+- 💻 Big Data: Apache Spark, Hadoop, and distributed computing.
+- 💻 ETL/ELT Tools: Apache Airflow, Apache Nifi, and Talend.
+- 💻 Data Warehousing: Designing and maintaining data warehouses and data lakes.
+- 💻 Cloud Technologies: AWS (Amazon Web Services), GCP (Google Cloud Platform), and Azure.
+- 💻 Data Visualization: Tableau, Power BI, and matplotlib.
+
+
+## Contribution
+
+- ✨ I'm open to collaborations and exciting opportunities in the field of data engineering. If you have any projects or ideas where I can contribute my skills, feel free to reach out.
+
+
+
+<details open>
+    <summary>⚙ <b>GitHub Analytics</b>: </summary>
+<br>
 <div align="center">  
-
-</div> 
   
-### Main skills:
+  <img height= "180cm" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Andessonreis&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  />   
+  
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&hide=html&layout=compact&langs_count=5&theme=midnight-purple" />
+</div>
+  
+### ☄️ Github Streaks:
+<p align="center">
+  
+   <img height="228em" src="https://github-readme-streak-stats.herokuapp.com/?user=andessonreis&theme=midnight-purple&hide_border=false"  width="450px" />
 
-![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) 
+</p>
+</details>
+
+&nbsp; <!-- Add space -->
+
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=SQL&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-43853D?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Numpy-DD0031?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tidyverse-58A5F0?style=for-the-badge&logo=tidyverse&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  </p>
+</div>
+
+
+  ## Contato ⤵️
+ 
+<div> 
+
+  <a href="https://instagram.com/andesson_reis?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andessonreys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andesson-reis-b44627163" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Andessonreis&theme=radical&no-frame=false&no-bg=true&margin-w=45&column=-1)
+
+<div align="center">
+<br>
+  <p align="centre"><b>Visitors Count</b>
+  </p>  
+<img src="https://media.giphy.com/media/AmC5W2bbc41wY/giphy.gif" width="300" height="200" /> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andessonreis}/count.svg" /></p> 
+<br>
+  </div>
+
+
+
 
 <p align="left">
-  Contato ⤵️
+  Contato 
 </p>
 
 <p align="left">
@@ -29,58 +122,6 @@
       <img src="https://img.shields.io/badge/-Instagram-FF5789?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/in/andesson-reis/" /</a>
 </p>
 
-<h3> :rocket: &nbsp; Skills</h3>
-
-
-**Linguagens e Frameworks**
-
- ![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white) 
- ![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=SQL&logoColor=61DAFB)
- ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
- ![Pandas](https://img.shields.io/badge/Pandas-43853D?style=for-the-badge&logo=pandas&logoColor=white)
- ![Numpy](https://img.shields.io/badge/Numpy-DD0031?style=for-the-badge&logo=numpy&logoColor=white)
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
- ![Tidyverse](https://img.shields.io/badge/Tidyverse-58A5F0?style=for-the-badge&logo=tidyverse&logoColor=white)
- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-
-**Ferramentas de Desenvolvimento e DevOps** 
-
- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
- ![Docker](https://img.shields.io/badge/docker-0769AD?style=for-the-badge&logo=docker&logoColor=white)
- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
- ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
- ![IntelliJ Idea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
- 
-<details open>
-    <summary>⚙ <b>GitHub Analytics</b>: </summary>
-    <br>
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andessonreis&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Andesson reis github stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-  
-### ☄️ Github Streaks:
-<p align="center">
-    <img alt="coding-to-music's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andessonreis&theme=tokyonight&hide_border=true"/>
-</p>
-
-</details>
-
-<div align="center">
-<br>
-  <p align="centre"><b>Visitors Count</b>
-  </p>  
-<img src="https://media.giphy.com/media/AmC5W2bbc41wY/giphy.gif" width="300" height="200" /> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andessonreis}/count.svg" /></p> 
-<br>
-  </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
