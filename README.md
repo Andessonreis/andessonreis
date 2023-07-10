@@ -81,7 +81,7 @@
 </div>
 
 
-  ## Contato ⤵️
+  ## Contact ⤵️
  
 <div> 
 
