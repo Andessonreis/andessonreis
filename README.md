@@ -8,7 +8,7 @@
 
 ## About Me
 - 👨‍💻 I'm a Data Engineer with a passion for turning data into valuable insights. I enjoy working with large datasets and building efficient data pipelines.
-- 🎓 Currently, I specialize in data engineering and utilize various technologies to extract, transform, and load data for analysis and processing.
+- 🎓 Passionate Data Engineer. Expert in extracting, transforming, and analyzing data with diverse technologies.
 - 💼 I have experience in handling diverse data sources and implementing data governance and quality measures.
 - 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving field of data engineering.
 
