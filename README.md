@@ -27,8 +27,6 @@
 
 - ✨ I'm open to collaborations and exciting opportunities in the field of data engineering. If you have any projects or ideas where I can contribute my skills, feel free to reach out.
 
-
-
 <details open>
     <summary>⚙ <b>GitHub Analytics</b>: </summary>
 <br>
