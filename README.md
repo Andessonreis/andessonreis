@@ -7,13 +7,12 @@
 <div align="center"></div> 
 
 ## About Me
-- 👩‍💻 I'm a Data Engineer with a passion for turning data into valuable insights. I enjoy working with large datasets and building efficient data pipelines.
+- 👨‍💻 I'm a Data Engineer with a passion for turning data into valuable insights. I enjoy working with large datasets and building efficient data pipelines.
 - 🎓 Currently, I specialize in data engineering and utilize various technologies to extract, transform, and load data for analysis and processing.
 - 💼 I have experience in handling diverse data sources and implementing data governance and quality measures.
 - 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving field of data engineering.
 
 ## Technical Skills
-
 - 💻 Python: Data manipulation, data preprocessing, scripting, and automation.
 - 💻 SQL: Database querying, data modeling, and optimization.
 - 💻 Big Data: Apache Spark, Hadoop, and distributed computing.
@@ -22,9 +21,7 @@
 - 💻 Cloud Technologies: AWS (Amazon Web Services), GCP (Google Cloud Platform), and Azure.
 - 💻 Data Visualization: Tableau, Power BI, and matplotlib.
 
-
 ## Contribution
-
 - ✨ I'm open to collaborations and exciting opportunities in the field of data engineering. If you have any projects or ideas where I can contribute my skills, feel free to reach out.
 
 <details open>
