@@ -61,6 +61,7 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
     <img src="https://img.shields.io/badge/Tidyverse-58A5F0?style=for-the-badge&logo=tidyverse&logoColor=white" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </p>
 </div>
 
@@ -73,6 +74,8 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
   </p>
 </div>
 
