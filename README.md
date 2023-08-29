@@ -25,21 +25,32 @@
 - ✨ I'm open to collaborations and exciting opportunities in the field of data engineering. If you have any projects or ideas where I can contribute my skills, feel free to reach out.
 
 <details open>
-    <summary>⚙ <b>GitHub Analytics</b>: </summary>
+    <summary>⚙ <b>GitHub Stats</b>: </summary>
 <br>
 <div align="center">  
   
-  <img height= "180cm" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Andessonreis&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  />   
-  
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&hide=html&layout=compact&langs_count=5&theme=midnight-purple" />
+ <p align="center">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andessonreis&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
+     
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
 </div>
-  
+
+### 👤 GitHub Profile Summary:
+
+<p align="center">
+   <!--<img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=radical"" />-->
+       <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=react" /> 
+</p>
+
+   <!--<  
 ### ☄️ Github Streaks:
 <p align="center">
   
-   <img height="228em" src="https://github-readme-streak-stats.herokuapp.com/?user=andessonreis&theme=midnight-purple&hide_border=false"  width="450px" />
+img height="228em" src="https://github-readme-streak-stats.herokuapp.com/?user=andessonreis&theme=midnight-purple&hide_border=false"  width="450px" />
 
 </p>
+-->
 </details>
 
 &nbsp; <!-- Add space -->
