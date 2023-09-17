@@ -44,14 +44,12 @@
 </p>
 -->
 ### 👤 GitHub Profile Summary:
-
+<br><br>
 <p align="center">
    <!--<img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=radical"" />-->
        <!--<img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=react" /> -->
       <!-- <img height="228em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=2077" />-->
     <img height="228em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=midnight_purple" />
-
-    
 </p>
 
 </details>
