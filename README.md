@@ -107,8 +107,7 @@
 
 <div align="center">
 <br>
-  <p align="centre"><b>Visitors Count</b>
-  </p>  
+  <p align="centre"><b>Visitors Count</b></p>  
 <img src="https://media.giphy.com/media/AmC5W2bbc41wY/giphy.gif" width="300" height="200" /> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andessonreis}/count.svg" /></p> 
 <br>
   </div>
