@@ -1,14 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8e52f5&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!)
+<img src="./assets/borderseparator.gif" width="100%"/>
+
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andesson+and+Welcome+to+my+Profile!" alt="Hey, I'm Andesson and Welcome to my Profile! animated typed out" width="70%" align="middle"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+<img src="./assets/borderseparator.gif" width="100%"/>
+
 <!--![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)-->
 ![pixel-jeff-clipa-s](https://github.com/Andessonreis/andessonreis/assets/105820333/65a5bf03-cc3a-44bd-8c38-542bf1a13a9f)
 
----
+<div align="center">
+  <p style="font-size: 24px;"> <strong>About Me</strong></p>
+</div>
+<img src="./assets/borderseparator.gif" alt="Separator Line" />
 
-<div align="center"></div> 
-
-## About Me
 - 👨‍💻 I'm a Data Engineer with a passion for turning data into valuable insights. I enjoy working with large datasets and building efficient data pipelines.
 - 🎓 Passionate Data Engineer. Expert in extracting, transforming, and analyzing data with diverse technologies.
 - 💼 I have experience in handling diverse data sources and implementing data governance and quality measures.
