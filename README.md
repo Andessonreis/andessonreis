@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="left"/>  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andesson+and+Welcome+to+my+Profile!" alt="Hey, I'm Andesson and Welcome to my Profile! animated typed out" width="70%" align="middle"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andesson+and+Welcome+to+my+Profile!" alt="Hey, I'm Andesson and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <img src="./assets/img/borderseparator.gif" width="100%"/>
@@ -12,30 +12,16 @@
 <!--![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)-->
 ![pixel-jeff-clipa-s](https://github.com/Andessonreis/andessonreis/assets/105820333/65a5bf03-cc3a-44bd-8c38-542bf1a13a9f)
 
-<img src="./assets/img/borderseparator.gif" width="100%"/>
+---
 
-<div align="center">
-  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="left"/>  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=About + me" width="70%" align="middle"/>
-  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="right"/>
-</div>
-
-<img src="./assets/img/borderseparator.gif" width="100%"/>
+## About me
 
 - 👨‍💻 I'm a Data Engineer with a passion for turning data into valuable insights. I enjoy working with large datasets and building efficient data pipelines.
 - 🎓 Passionate Data Engineer. Expert in extracting, transforming, and analyzing data with diverse technologies.
 - 💼 I have experience in handling diverse data sources and implementing data governance and quality measures.
 - 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving field of data engineering.
 
-<img src="./assets/img/borderseparator.gif" width="100%"/>
-
-<div align="center">
-  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="left"/>  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Technical + Skills" width="70%" align="middle"/>
-  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="right"/>
-</div>
-
-<img src="./assets/img/borderseparator.gif" width="100%"/>
+## Technical Skills
 
 - 💻 Python: Data manipulation, data preprocessing, scripting, and automation.
 - 💻 SQL: Database querying, data modeling, and optimization.
@@ -45,15 +31,7 @@
 - 💻 Cloud Technologies: AWS (Amazon Web Services), GCP (Google Cloud Platform), and Azure.
 - 💻 Data Visualization: Tableau, Power BI, and matplotlib.
 
-<img src="./assets/img/borderseparator.gif" width="100%"/>
-
-<div align="center">
-  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="left"/>  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Contribution" width="70%" align="middle"/>
-  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="right"/>
-</div>
-
-<img src="./assets/img/borderseparator.gif" alt="Separator Line" />
+## Contribution
 
 - ✨ I'm open to collaborations and exciting opportunities in the field of data engineering. If you have any projects or ideas where I can contribute my skills, feel free to reach out.
 
@@ -123,16 +101,8 @@
   </p>
 </div>
 
-<img src="./assets/img/borderseparator.gif" width="100%"/>
+## Contact
 
-<div align="center">
-  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="left"/>  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Contact" width="70%" align="middle"/>
-  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="right"/>
-</div>
-
-<img src="./assets/img/borderseparator.gif" alt="Separator Line" />
-  
 <div> 
 
   <a href="https://instagram.com/andesson_reis?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -141,15 +111,7 @@
   
 </div>
 
-<img src="./assets/img/borderseparator.gif" width="100%"/>
-
-<div align="center">
-  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="left"/>  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines= 🏆 + GitHub+Trophies" width="70%" align="middle"/>
-  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="right"/>
-</div>
-
-<img src="./assets/img/borderseparator.gif" alt="Separator Line" /> 
+## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Andessonreis&theme=radical&no-frame=false&no-bg=true&margin-w=45&column=-1)
 
