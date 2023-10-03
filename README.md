@@ -46,22 +46,18 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 </div>
-
+<!--
 ### ☄️ Github Streaks:
 <p align="center">
 <img height="228em" src="https://github-readme-streak-stats.herokuapp.com/?user=andessonreis&theme=midnight-purple&hide_border=false"  width="450px" />
 </p>
-
-<!--
+-->
 ## 👤 GitHub Profile Summary:
 <br><br>
 <p align="center">
-   <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=radical"" />
-       <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=react" /> 
-      <img height="228em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=2077" />
     <img height="228em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=midnight_purple" />
 </p>
--->
+
 </details>
 
 &nbsp; <!-- Add space -->
