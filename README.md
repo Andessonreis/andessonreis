@@ -38,13 +38,13 @@
 <details open>
     <summary>⚙ <b>GitHub Stats</b>: </summary>
 <br>
-<div align="center">  
   
- <p align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andessonreis&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
+<div align="center">    
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andessonreis&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
      
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
+  </p>
 </div>
 <!--
 ### ☄️ Github Streaks:
