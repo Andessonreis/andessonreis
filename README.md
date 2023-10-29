@@ -54,7 +54,7 @@
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=andessonreis&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=andessonreis&theme=radical&no-frame=false&no-bg=true&row=1&column=-1" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andessonreis&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&layout=compact&theme=midnight-purple&hide_border=true" />
 </div> <br>
