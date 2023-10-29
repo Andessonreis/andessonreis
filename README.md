@@ -36,7 +36,7 @@
 - **Data Architecture:** Design and maintenance of data warehouses and data lakes.
 - **Cloud and Storage:** Expertise in AWS, GCP, and Azure for data management.
 - **Data Visualization:** Proficient in tools like Tableau, Power BI, and matplotlib.
-- 
+  
 ### **Backend Development:**
 - **API Construction and Server Logic:** Utilization of Java, and Spring for API construction and server logic.
 - **Web Technologies and Frameworks:** Mastery in Bootstrap, jQuery, JavaScript, HTML5, and CSS3 for web development.
