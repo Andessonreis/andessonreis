@@ -112,14 +112,14 @@
 <div align="center">
   
   <h2 align="center">👨‍💻 Projects <img src="./assets/img/borderseparator.gif"/></h2><br>
-    <a href="https://github.com/godkingjay/Machine-Learning-Model-Spectrum" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andessonreis&theme=radical&repo=Machine-Learning-Model-Spectrum" width="49%" alt="Machine-Learning-Model-Spectrum"/>
+    <a href="https://github.com/andessonreis/Machine-Learning-Model-Spectrum" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andessonreis&theme=midnight-purple&repo=Machine-Learning-Model-Spectrum" width="49%" alt="Machine-Learning-Model-Spectrum"/>
     </a>
     <a href="https://github.com/jonatasfbastos/sgif_backend" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonatasfbastos&theme=radical&repo=sgif_backend" width="49%" alt="sgif_backend"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonatasfbastos&theme=midnight-purple&repo=sgif_backend" width="49%" alt="sgif_backend"/>
     </a>
     <a href="https://github.com/Andessonreis/ETL-Pipeline" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andessonreis&theme=radical&repo=ETL-Pipeline" width="49%" alt="ETL-Pipeline"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andessonreis&theme=midnight-purple&repo=ETL-Pipeline" width="49%" alt="ETL-Pipeline"/>
     </a>
 
 </div>
