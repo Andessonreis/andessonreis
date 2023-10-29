@@ -56,7 +56,8 @@
 
   <img src="https://github-profile-trophy.vercel.app/?username=andessonreis&theme=radical&no-frame=false&no-bg=true&row=1&column=-1" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andessonreis&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&theme=midnight-purple&langs_count=10&card_width=500&layout=compact" alt="Most used languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&layout=compact&theme=midnight-purple&hide_border=true&langs_count=10&card_width=400"/>
+
 </div> <br>
 <p align="center">
     <img height="228em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=midnight_purple" />
