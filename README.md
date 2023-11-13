@@ -121,6 +121,9 @@
     <a href="https://github.com/Andessonreis/ETL-Pipeline" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andessonreis&theme=midnight-purple&repo=ETL-Pipeline" width="49%" alt="ETL-Pipeline"/>
     </a>
+    <a href="https://github.com/Andessonreis/Exoplanet-Classifier" target="_blank">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andessonreis&theme=midnight-purple&repo=Exoplanet-Classifier" width="49%" alt="Exoplanet-Classifier"/>
+    </a>
 
 </div>
 </br>
