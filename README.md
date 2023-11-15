@@ -71,7 +71,6 @@
 </br>
 <h2></h2>
 <!--&nbsp; <!-- Add space -->
-
 <div align="center">
   <p align="center">
     <img src="https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white" />
