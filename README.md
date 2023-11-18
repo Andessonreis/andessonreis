@@ -45,7 +45,7 @@
 - **Versatility in Languages:** Proficiency in PyTorch, Tidyverse, C, C++, and Git versioning practices.
 
 <div align="center">
-  <h2 align="center">Contribution<img src="./assets/img/borderseparator.gif"/></h2><br>
+  <h2 align="center">Contribution</h2><br>
   
 - ✨ I am open to collaborations and opportunities in both Data Engineering and Backend Development. If you have projects where I can contribute my skills, feel free to get in touch
 
