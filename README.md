@@ -64,11 +64,13 @@
 <p align="center">
     <img height="228em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=midnight_purple" />
 </p>
+
 <!--
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andessonreis&custom_title=Andesson Reis%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Andesson Reis's Github Activity Graph" width="100%">
+  <img height="180em" width="470em" src ="https://github-readme-streak-stats.herokuapp.com/?user=andessonreis&theme=midnight_purple" />
 </div>
 -->
+
 </br>
 <h2></h2>
 <!--&nbsp; <!-- Add space -->
