@@ -6,17 +6,18 @@
   <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 
+</br>
 <!--![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)-->
-![pixel-jeff-clipa-s](https://github.com/Andessonreis/andessonreis/assets/105820333/65a5bf03-cc3a-44bd-8c38-542bf1a13a9f)
+<!-- ![pixel-jeff-clipa-s](https://github.com/Andessonreis/andessonreis/assets/105820333/65a5bf03-cc3a-44bd-8c38-542bf1a13a9f)-->
 
 <table align="right">
  <tr><td><a href="https://github.com/Andessonreis/andessonreis/blob/main/README.md"><img src="./assets/img/us_flag.png" alt="Bandeira dos Estados Unidos da América" width="17px"> English</a></td></tr>
  <tr><td><a href="https://github.com/Andessonreis/andessonreis/blob/main/README-pt-br.md"><img src="./assets/img/br_flag.png" alt="Bandeira do Brasil" width="17px"> Português</a></td></tr>
 </table>
-
+<!--
 <img src="./assets/img/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/img/animated-flame-01.gif" width="16px" align="right"/>
-
+-->
 <div align="center">
   <h2 align="center">👨‍💻 About me </h2><br>  
 </div>
