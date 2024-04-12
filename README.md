@@ -11,7 +11,7 @@
 <!-- ![pixel-jeff-clipa-s](https://github.com/Andessonreis/andessonreis/assets/105820333/65a5bf03-cc3a-44bd-8c38-542bf1a13a9f)-->
 
 <table align="right">
- <tr><td><a href="https://github.com/Andessonreis/andessonreis/blob/main/README.md"><img src="./assets/img/us_flag.png" alt="Bandeira dos Estados Unidos da América" width="17px"> English</a></td></tr>
+<!-- <tr><td><a href="https://github.com/Andessonreis/andessonreis/blob/main/README.md"><img src="./assets/img/us_flag.png" alt="Bandeira dos Estados Unidos da América" width="17px"> English</a></td></tr> -->
  <tr><td><a href="https://github.com/Andessonreis/andessonreis/blob/main/README-pt-br.md"><img src="./assets/img/br_flag.png" alt="Bandeira do Brasil" width="17px"> Português</a></td></tr>
 </table>
 <!--
