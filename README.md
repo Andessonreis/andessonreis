@@ -6,6 +6,19 @@
   <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 
+
+
+<div style="display: flex; justify-content: space-around;">
+    <img width="435em" src="https://github-profile-trophy.vercel.app/?username=giovaneneves7&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovaneneves7&show_icons=true&locale=en&layout=compact&theme=radical" alt="giovaneneves7's Most used lang" />
+</div>
+
+<h2> <img src="https://media.tenor.com/PraaeS-b7hAAAAAj/girl-cute.gif" width="50" height="50" />
+
+
+
+
+
 </br>
 <!--![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)-->
 <!-- ![pixel-jeff-clipa-s](https://github.com/Andessonreis/andessonreis/assets/105820333/65a5bf03-cc3a-44bd-8c38-542bf1a13a9f)-->
