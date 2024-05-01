@@ -29,6 +29,7 @@
 <img src="./assets/img/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/img/animated-flame-01.gif" width="16px" align="right"/>
 
+
 <div align="center">
   <h2 align="center"> ⚙️ Technologies and Skills </h2><br>  
 </div>
@@ -56,16 +57,25 @@
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-
+<!--
   <img src="https://github-profile-trophy.vercel.app/?username=andessonreis&theme=radical&no-frame=false&no-bg=true&row=1&column=-1" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andessonreis&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&layout=compact&theme=midnight-purple&count_private=true&hide_border=true&langs_count=10&card_width=400"/>
-
 </div> <br>
 <p align="center">
     <img height="228em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=midnight_purple" />
 </p>
+-->
 
+<div style="display: flex; justify-content: space-around;">
+    <img width="435em" src="https://github-profile-trophy.vercel.app/?username=giovaneneves7&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovaneneves7&show_icons=true&locale=en&layout=compact&theme=radical" alt="giovaneneves7's Most used lang" />
+</div>
+
+<h2> <img src="https://media.tenor.com/PraaeS-b7hAAAAAj/girl-cute.gif" width="50" height="50" />
+
+
+  
 <!--
 <div align="center">
   <img height="180em" width="470em" src ="https://github-readme-streak-stats.herokuapp.com/?user=andessonreis&theme=midnight_purple" />
