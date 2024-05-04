@@ -78,7 +78,7 @@
   </p>
 
   <!-- Estatísticas do GitHub e Linguagens mais usadas -->
-  <div style="display: flex; justify-content: space-around;" margin-top: 20px;">
+  <div style="display: flex; justify-content: space-around;">
     <img 
       height="180em" 
       src="https://github-readme-stats.vercel.app/api?username=andessonreis&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" 
