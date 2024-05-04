@@ -1,25 +1,62 @@
+<!-- Imagem de cabeçalho com efeito de ondulação -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
+<!-- Container centralizado -->
 <div align="center">
+
+  <!-- Imagem de chama animada à esquerda -->
   <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="left"/>  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andesson+and+Welcome+to+my+Profile!" alt="Hey, I'm Andesson and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+
+  <!-- Texto animado no centro -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Andesson+and+Welcome+to+my+Profile!" 
+    alt="Hey, I'm Andesson and Welcome to my Profile! animated typed out" 
+    width="90%" 
+    align="middle"
+  />
+
+  <!-- Imagem de chama animada à direita -->
   <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
-</br>
+</br> <!-- Quebra de linha -->
 
-<!--![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)-->
+<!-- Imagem GIF adicionada -->
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif" alt="Animated GIF" />
+
+<!-- Comentário removido gif: 
 ![pixel-jeff-clipa-s](https://github.com/Andessonreis/andessonreis/assets/105820333/65a5bf03-cc3a-44bd-8c38-542bf1a13a9f)
 <table align="right">
-<!-- <tr><td><a href="https://github.com/Andessonreis/andessonreis/blob/main/README.md"><img src="./assets/img/us_flag.png" alt="Bandeira dos Estados Unidos da América" width="17px"> English</a></td></tr> -->
- <tr><td><a href="https://github.com/Andessonreis/andessonreis/blob/main/README-pt-br.md"><img src="./assets/img/br_flag.png" alt="Bandeira do Brasil" width="17px"> Português</a></td></tr>
+-->
+
+<!-- Comentário removido : 
+<tr><td><a href="https://github.com/Andessonreis/andessonreis/blob/main/README.md"><img src="./assets/img/us_flag.png" alt="Bandeira dos Estados Unidos da América" width="17px"> English</a></td></tr>
+-->
+
+<!-- Início da tabela -->
+<table>
+  <!-- Link para o arquivo README em Português -->
+  <tr>
+    <td>
+      <a href="https://github.com/Andessonreis/andessonreis/blob/main/README-pt-br.md">
+        <img src="./assets/img/br_flag.png" alt="Bandeira do Brasil" width="17px"> Português
+      </a>
+    </td>
+  </tr>
 </table>
-<!--
+<!-- Fim da tabela -->
+
+<!-- Comentários removidos: 
 <img src="./assets/img/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/img/animated-flame-01.gif" width="16px" align="right"/>
 -->
+
+<!-- Container centralizado -->
 <div align="center">
+  <!-- Título "About me" centralizado -->
   <h2 align="center">👨‍💻 About me </h2><br>  
 </div>
+
 
 -  👨‍💻 I'm a Data Professional and Backend Developer passionate about turning data into valuable insights and building robust backend solutions.
 -  🎓 I possess a strong background in data engineering, including extraction, transformation, and analysis of large datasets, alongside a profound knowledge in backend development, crafting scalable and efficient systems.
@@ -63,8 +100,7 @@
     <img 
       <img src="https://github-profile-trophy.vercel.app/?username=andessonreis&theme=radical&no-frame=false&no-bg=true&row=1&column=-1" width="100%" alt="Trophy" align="middle" 
     /> 
-    <br>
-    
+    <br>    
 &nbsp;
   
   <!-- Detalhes do perfil -->
@@ -87,7 +123,7 @@
       alt="Top Languages" 
     />
   
-<!--
+<!-- Comentários removidos: 
 <div align="center">
   <img height="180em" width="470em" src ="https://github-readme-streak-stats.herokuapp.com/?user=andessonreis&theme=midnight_purple" />
 </div>
