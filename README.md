@@ -76,6 +76,11 @@
       alt="Profile Details" 
     />
   </p>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andessonreis&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&layout=compact&theme=midnight-purple&count_private=true&hide_border=true&langs_count=10&card_width=400"/>
+</div> <br>
+  
   <!-- Estatísticas do GitHub e Linguagens mais usadas -->
     <img 
       height="180em" 
