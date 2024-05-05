@@ -6,6 +6,8 @@
 
   <!-- Imagem de chama animada à esquerda -->
   <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="left"/>  
+  <!-- Imagem de chama animada à direita -->
+  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="right"/>
 
   <!-- Texto animado no centro -->
   <img 
@@ -14,14 +16,11 @@
     width="90%" 
     align="middle"
   />
-
-  <!-- Imagem de chama animada à direita -->
-  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="right"/>
+  
 </div>
 </br> <!-- Quebra de linha -->
 
 <!-- Imagem GIF adicionada -->
-
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif" alt="Animated GIF" />
 
 <!-- Comentário removido gif: 
