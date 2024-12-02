@@ -21,12 +21,12 @@
 </br> <!-- Quebra de linha -->
 
 <!-- Imagem GIF adicionada -->
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif" alt="Animated GIF" />
+<!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif" alt="Animated GIF" /> -->
 
-<!-- Comentário removido gif: 
+<!-- Comentário removivel gif: -->
 ![pixel-jeff-clipa-s](https://github.com/Andessonreis/andessonreis/assets/105820333/65a5bf03-cc3a-44bd-8c38-542bf1a13a9f)
 <table align="right">
--->
+
 
 <!-- Comentário removido : 
 <tr><td><a href="https://github.com/Andessonreis/andessonreis/blob/main/README.md"><img src="./assets/img/us_flag.png" alt="Bandeira dos Estados Unidos da América" width="17px"> English</a></td></tr>
