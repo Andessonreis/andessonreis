@@ -32,9 +32,9 @@
 <tr><td><a href="https://github.com/Andessonreis/andessonreis/blob/main/README.md"><img src="./assets/img/us_flag.png" alt="Bandeira dos Estados Unidos da América" width="17px"> English</a></td></tr>
 -->
 
-<!-- Início da tabela -->
+<!-- Início da tabela
 <table>
-  <!-- Link para o arquivo README em Português -->
+  <!-- Link para o arquivo README em Português 
   <tr>
     <td>
       <a href="https://github.com/Andessonreis/andessonreis/blob/main/README-pt-br.md">
@@ -126,69 +126,80 @@
 <div align="center">
   <img height="180em" width="470em" src ="https://github-readme-streak-stats.herokuapp.com/?user=andessonreis&theme=midnight_purple" />
 </div>
--->
-
+--></br>
+<h2 align="center">Tech Stack & Tools</h2>
 </br>
-<h2></h2>
-<!--&nbsp; <!-- Add space -->
+
 <div align="center">
-  <p align="center">
+  <!-- Linguagens de Programação -->
+  <p>
     <img src="https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=SQL&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-43853D?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Numpy-DD0031?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tidyverse-58A5F0?style=for-the-badge&logo=tidyverse&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mojo-FF6600?style=for-the-badge&logo=mojo&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=sql&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </p>
-</div>
-<div align="center">
-  <p align="center">
+  
+  <!-- Frameworks e Bibliotecas -->
+  <p>
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  </p>
+  
+  <!-- Ferramentas -->
+  <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-    <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  </p>
+  
+  <!-- Plataformas -->
+  <p>
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   </p>
 </div>
 
-<img src="./assets/img/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/img/animated-flame-01.gif" width="16px" align="right"/>
-
-<div align="center">
+<!--
+  <img src="./assets/img/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/img/animated-flame-01.gif" width="16px" align="right"/>
+  <div align="center">
+    
+    <h2 align="center">👨‍💻 Projects <img src="./assets/img/borderseparator.gif"/></h2><br>
+      <a href="https://github.com/andessonreis/Machine-Learning-Model-Spectrum" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andessonreis&theme=midnight-purple&repo=Machine-Learning-Model-Spectrum" width="49%" alt="Machine-Learning-Model-Spectrum"/>
+      </a>
+      <a href="https://github.com/jonatasfbastos/sgif_backend" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonatasfbastos&theme=midnight-purple&repo=sgif_backend" width="49%" alt="sgif_backend"/>
+      </a>
+      <a href="https://github.com/Andessonreis/ETL-Pipeline" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andessonreis&theme=midnight-purple&repo=ETL-Pipeline" width="49%" alt="ETL-Pipeline"/>
+      </a>
+      <a href="https://github.com/Andessonreis/Exoplanet-Classifier" target="_blank">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andessonreis&theme=midnight-purple&repo=Exoplanet-Classifier" width="49%" alt="Exoplanet-Classifier"/>
+      </a>
   
-  <h2 align="center">👨‍💻 Projects <img src="./assets/img/borderseparator.gif"/></h2><br>
-    <a href="https://github.com/andessonreis/Machine-Learning-Model-Spectrum" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andessonreis&theme=midnight-purple&repo=Machine-Learning-Model-Spectrum" width="49%" alt="Machine-Learning-Model-Spectrum"/>
-    </a>
-    <a href="https://github.com/jonatasfbastos/sgif_backend" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonatasfbastos&theme=midnight-purple&repo=sgif_backend" width="49%" alt="sgif_backend"/>
-    </a>
-    <a href="https://github.com/Andessonreis/ETL-Pipeline" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andessonreis&theme=midnight-purple&repo=ETL-Pipeline" width="49%" alt="ETL-Pipeline"/>
-    </a>
-    <a href="https://github.com/Andessonreis/Exoplanet-Classifier" target="_blank">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andessonreis&theme=midnight-purple&repo=Exoplanet-Classifier" width="49%" alt="Exoplanet-Classifier"/>
-    </a>
-
-</div>
+  </div>
+-->
 </br>
 
-<h2></h2>
 
 <img src="./assets/img/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/img/animated-flame-01.gif" width="16px" align="right"/>
