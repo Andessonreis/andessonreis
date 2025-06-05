@@ -5,33 +5,25 @@
 </div>
 
 
-  <!-- Imagem de chama animada à esquerda -->
- <!-- <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="left"/>  -->
-  <!-- Imagem de chama animada à direita -->
-<!--  <img src="./assets/img/animated-flame-01.gif" width="1.75%" align="right"/> -->
-
-
-
 <!-- ==================== CORE FUNCTIONS ==================== -->
-<table align="right">
-  
-### ⚡ **CORE FUNCTIONS**
+<img src="./assets/img/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/img/animated-flame-01.gif" width="16px" align="right"/>
 
-> **DATA ENGINEERING MATRIX**  
-> 🔹 Pipeline Architecture: Apache Spark, Airflow, Kafka  
-> 🔹 Cloud Orchestration: AWS, GCP, Azure multi-cloud strategies  
-> 🔹 Data Lake Design: Scalable storage & retrieval systems  
-> 🔹 Real-time Processing: Stream analytics & event-driven architectures  
+<div align="center">
+  <h2 align="center">🚀 Core Expertise</h2><br>
+</div>
 
-> **BACKEND NEURAL NETWORK**  
-> 🔹 API Development: RESTful & GraphQL services with Java/Spring  
-> 🔹 Microservices: Containerized solutions with Docker & Kubernetes  
-> 🔹 Database Optimization: PostgreSQL, MySQL performance tuning  
-> 🔹 System Architecture: Scalable, fault-tolerant backend solutions  
+### **💾 Data Engineering Pipeline:**
+- **Stream & Batch Processing:** Apache Spark, Kafka, and Airflow for scalable data workflows
+- **Cloud Infrastructure:** Multi-cloud expertise across AWS, GCP, and Azure ecosystems  
+- **Data Architecture:** Design and implementation of robust data lakes and warehouses
+- **Real-time Analytics:** Event-driven architectures for instant data insights
 
-</table>
-
----
+### **⚙️ Backend Engineering:**
+- **API Development:** RESTful services and microservices using Java/Spring framework
+- **Database Management:** Advanced PostgreSQL and MySQL optimization techniques
+- **Containerization:** Docker and orchestration for scalable deployment solutions
+- **System Design:** Building fault-tolerant, high-performance backend architectures
 
 
 <!-- ======================== GIF ======================== -->
