@@ -2,6 +2,22 @@
 
 ![Neural Network](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,6,2,0&height=300&section=header&text=ANDESSON%20REIS&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlign=50&stroke=0cf6f8&strokeWidth=2)
 
+  
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+
+<div align="center">
+
+## 🌌 ∿ DIGITAL ARCHITECT ∿ 🌌
+  
+  *Building tomorrow's data infrastructure with code that flows like poetry*
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
 </div>
 
 
@@ -29,57 +45,81 @@
 <!-- ======================== GIF ======================== -->
 
 <div align="center">
-<img src="https://github.com/Andessonreis/andessonreis/assets/105820333/65a5bf03-cc3a-44bd-8c38-542bf1a13a9f" width="400" alt="Cyberpunk Avatar"/>
+  <img src="https://github.com/Andessonreis/andessonreis/assets/105820333/65a5bf03-cc3a-44bd-8c38-542bf1a13a9f" width="400" alt="Cyberpunk Avatar"/>
 </div>
 
-
-<!-- ==================== TECH STACK ==================== -->
+  
+  <!-- ==================== TECH STACK MATRIX ==================== -->
 <div align="center">
 
 ## ⚙️ **TECH STACK MATRIX** ⚙️
 
+<table>
+<tr>
+<td align="center" width="50%">
+
 ### 🔥 **LANGUAGES**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60">
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=000000)
-![Mojo](https://img.shields.io/badge/Mojo-FF6600?style=for-the-badge&logo=mojo&logoColor=blue&labelColor=000000)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&color=667eea)
+![Mojo](https://img.shields.io/badge/Mojo-FF6600?style=for-the-badge&logo=mojo&logoColor=blue&color=764ba2)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&color=f093fb)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=667eea)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=764ba2)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=f093fb)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=667eea)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=764ba2)
 
+</td>
+<td align="center" width="50%">
 
-### ⚡ **FRAMEWORKS & LIBRARIES**
+### ☁️ **CLOUD CONSTELLATION**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apache-spark&logoColor=E25A1C&labelColor=000000)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=000000)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)
-![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white&labelColor=000000)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=000000)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=667eea)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=764ba2)
+![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=f093fb)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&color=667eea)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white&color=764ba2)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&color=f093fb)
 
-### ☁️ **CLOUD & PLATFORMS**
+</td>
+</tr>
+</table>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000000)
-![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=000000)
+<br>
 
+### 🧠 **DATA ENGINEERING & AI TOOLBOX**
+<img src="https://user-images.githubusercontent.com/74038190/212284180-5d5a52dc-7b4f-49d7-aee4-7bcd83d7c9a2.gif" width="60">
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&color=764ba2)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&color=667eea)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&color=f093fb)
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white&color=764ba2)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=667eea)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=f093fb)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=667eea)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=764ba2)
+
+<br>
+
+### 🌱 **FRAMEWORKS & ENVIRONMENTS**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=f093fb)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&color=667eea)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=764ba2)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=f093fb)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=667eea)
 
 </div>
 
 ---
 
-<!-- ==================== SYSTEM ANALYTICS ==================== -->
 <div align="center">
 
-## 📊 **SYSTEM ANALYTICS** 📊
+## 🌟 ∿ DIGITAL METRICS ∿ 🌟
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andessonreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
 
@@ -89,7 +129,62 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=andessonreis&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15)
 
+
 </div>
+
+---
+
+<div align="center">
+
+## 🔮 ∿ CURRENT ENCHANTMENTS ∿ 🔮
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+### 🌊 **Data Streams**
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="80">
+
+```yaml
+🎭 Real-time Analytics
+🎪 Event-driven Architecture  
+🎨 Streaming ML Pipelines
+🎯 Lambda Architecture
+```
+
+</td>
+<td width="33%" align="center">
+
+### ⚡ **Backend Mastery**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+
+```yaml
+🏗️ Microservices Design
+🚀 API Orchestration
+🔧 Database Optimization
+🛡️ System Resilience
+```
+
+</td>
+<td width="33%" align="center">
+
+### ☁️ **Cloud Native**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80">
+
+```yaml
+🌌 Multi-cloud Architecture
+🐳 Container Orchestration
+🔄 CI/CD Automation
+📊 Infrastructure as Code
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -131,6 +226,8 @@ graph LR
 
 ## 🌐 **NETWORK CONNECTION** 🌐
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/andesson-reis)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:andessonreys@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/andesson_reis)
@@ -148,11 +245,14 @@ graph LR
 — Friedrich Nietzsche
 
 ```
-┌─ SYSTEM UPTIME ─────────────────────────────────────┐
-│ > Continuous learning mode: ACTIVE                  │
-│ > Collaboration protocols: ENABLED                  │  
-│ > Innovation subroutines: RUNNING                   │
-└─────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════╗
+║                    ✨ SYSTEM STATUS ✨                     ║
+╠═══════════════════════════════════════════════════════════╣
+║  🌊 Data Pipelines:        [ ████████████████ ] 100%     ║
+║  ⚡ Learning Mode:         [ CONTINUOUS_FLOW ]           ║  
+║  🔮 Innovation Level:      [ MAXIMUM_CREATIVITY ]        ║
+║  🤝 Collaboration:         [ ALWAYS_AVAILABLE ]          ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 <br/>
