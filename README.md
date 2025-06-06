@@ -188,27 +188,6 @@
 
 ---
 
-<!-- ==================== CURRENT MISSIONS ==================== -->
-<div align="center">
-
-## 🎯 **CURRENT MISSIONS** 🎯
-
-```mermaid
-graph LR
-    A[Data Engineering] --> B[ETL Pipelines]
-    A --> C[Real-time Analytics]
-    A --> D[Cloud Architecture]
-    
-    E[Backend Development] --> F[API Design]
-    E --> G[Microservices]
-    E --> H[Database Optimization]
-    
-    B --> I[Business Intelligence]
-    C --> I
-    F --> J[Scalable Systems]
-    G --> J
-````
-
 </div>
 
 ### 🚀 **ACTIVE PROJECTS**
@@ -228,10 +207,9 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/andesson-reis)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:andessonreys@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/andesson_reis)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andesson-reis)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andessonreys@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://andessonreis.vercel.app)
 </div>
 
 ---
