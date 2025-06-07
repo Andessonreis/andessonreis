@@ -1,5 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANDESSON%20REIS&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&desc=Data%20Engineer%20%7C%20Backend%20Developer&descAlign=50&descAlignY=75"/>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=46,48&height=200&section=header&text=ANDESSON%20REIS&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlign=50&desc=Data%20Engineer%20%7C%20Backend%20Developer&descAlign=50&descAlignY=75"/>
+
+
 <br/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+data+architectures;Crafting+robust+backend+systems;Exploring+cloud-native+solutions;Transforming+data+into+insights)](https://git.io/typing-svg)
