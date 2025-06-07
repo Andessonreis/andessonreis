@@ -196,7 +196,8 @@ High-performance, fault-tolerant system design
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00D9FF)](https://www.linkedin.com/in/andesson-reis)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=667EEA)](mailto:andessonreys@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&color=764BA2)](https://andessonreis.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&color=bb00ff)](https://andessonreis.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-@andesson_reis-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00D9FF)](https://www.instagram.com/andesson_reis)
 </div>
 
 ---
