@@ -1,7 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=46,48&height=200&section=header&text=ANDESSON%20REIS&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlign=50&desc=Data%20Engineer%20%7C%20Backend%20Developer&descAlign=50&descAlignY=75"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bb00ff&height=200&section=header&text=ANDESSON%20REIS&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlign=50&desc=Data%20Engineer%20%7C%20Backend%20Developer&descAlign=50&descAlignY=75" />
 
 <br/>
   
@@ -218,4 +217,4 @@ High-performance, fault-tolerant system design
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colorList=bb00ff,8a2be2&fontColor=ffffff&height=120&section=footer" />
