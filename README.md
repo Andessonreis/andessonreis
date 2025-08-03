@@ -33,9 +33,10 @@
 
 <div align="center">
 
-  <img height="180em" width="470em" src="https://streak-stats.demolab.com/?user=andessonreis&theme=tokyonight" />
-  
-  
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img height="180em" src="https://streak-stats.demolab.com?user=andessonreis&theme=tokyonight&hide_border=true" />
+  </a>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&hide=html&layout=compact&langs_count=6&theme=tokyonight" />
   
   <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=tokyonight" />
