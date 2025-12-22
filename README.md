@@ -32,17 +32,19 @@
 - ✨ Open to exciting projects and collaborations. Let's build something amazing together!
 
 <div align="center">
+  
+<a href="https://github-readme-stats-fast.vercel.app" target="_blank">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=andessonreis&theme=tokyonight" />
+</a>
 
-  <a href="https://git.io/streak-stats" target="_blank">
-   <img height="180em" src="https://streak-stats.demolab.com?user=andessonreis&theme=tokyonight"
-  </a>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&hide=html&layout=compact&langs_count=6&theme=tokyonight" />
   
   <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andessonreis&theme=tokyonight" />
+
   <div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=andessonreis&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" alt="Contribution Graph" />
-</div>
+    <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=andessonreis&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" alt="Contribution Graph" />
+  </div>
 
 </div>
 
