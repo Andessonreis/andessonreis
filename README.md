@@ -34,7 +34,7 @@
 <div align="center">
 
   <a href="https://git.io/streak-stats" target="_blank">
-    <img height="180em" src="https://streak-stats.demolab.com?user=andessonreis&theme=tokyonight&hide_border=true" />
+   <img height="180em" src="https://streak-stats.demolab.com?user=andessonreis&theme=tokyonight"
   </a>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&hide=html&layout=compact&langs_count=6&theme=tokyonight" />
@@ -71,7 +71,11 @@
 ##
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=andessonreis&theme=tokyonight&no-frame=false&no-bg=true&margin-w=45&column=-1)
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=andessonreis&theme=tokyonight&column=6&margin-w=15" />
+</p>
+
 
 <!-- ==================== CONTACT ==================== -->
 
