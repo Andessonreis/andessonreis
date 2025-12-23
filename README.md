@@ -33,9 +33,7 @@
 
 <div align="center">
   
-<a href="https://github-readme-stats-fast.vercel.app" target="_blank">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=andessonreis&theme=tokyonight" />
-</a>
+<img height="180em" width="470em" src="https://streak-stats.demolab.com/?user=andessonreis&theme=tokyonight" />
 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andessonreis&hide=html&layout=compact&langs_count=6&theme=tokyonight" />
